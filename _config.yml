@@ -1,6 +1,6 @@
 title: Cess Blogs
 baseurl: /
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 markdown: kramdown
 prose:
   rooturl: '_posts'
