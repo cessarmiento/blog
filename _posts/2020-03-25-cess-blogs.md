@@ -1,10 +1,8 @@
 ---
 layout: blog
 category: blog
-published: false
+published: true
 title: Cess Blogs
-splash: ''
-tags: ''
 ---
 Hi! I am Cess. I am starting a new life at 30. Well I am still 29 as of this writing but I am more excited to be turning a year older now in a few months time.
 
