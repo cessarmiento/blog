@@ -6,7 +6,7 @@ title: Rice Cooker Goto
 ---
 It is rainy today here in Singapore and I have decided to prepare _Goto_ for my family. It is one of our most favorite comfort foods and we really miss eating it. Well, lugaw, arroz caldo and goto are our favorites when it comes to merienda and rainy season food. You can easily find these meriendas in the Philippines almost everywhere, most of the carenderias have these foods on their menu.  
 
-Goto, like _lugaw_, is a _rice porridge_ or _congee_ but the difference is it has beef tripes and sometimes pig innards in it. Lugaw is just plain rice porridge. Arrozcaldo on the other hand is cooked with chicken as meat and broth. If you know how to cook lugaw, you can also easily cook this sumptuous merienda.
+Goto, like lugaw, is a rice porridge or congee, but the difference is it has beef tripes and sometimes pig innards in it. Lugaw is just plain rice porridge. Arrozcaldo on the other hand is cooked with chicken as meat and broth. If you know how to cook lugaw, you can also easily cook this sumptuous merienda.
 
 Singapore also has rice porridge foods but the taste of course is different from what we Filipinos are used to. One of the rice porridge that I have tried here is the Chicken Shredded Porridge which is by far the best rice porridge I have tasted here. But since we missed Filipino Goto I tried to cook it for my family.
 
