@@ -21,7 +21,6 @@ As I do not have that much time, I decided to let the rice cooker do most of the
 - 2 tablespoons minced garlic
 - 1 small onion minced
 
-
 **Procedure**
   1. Clean the beef stripes. Generously apply salt and rub it on the tripe. Rinse it under running water and repeat it at least 2 times.
   2. Using the rice cooker pot, combine 7 cups of water and salt and the tripe. Boil for 2  hours using the slow cook setting. Set aside the tripes and liquid separately. Rinse the pot.*
