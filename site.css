@@ -496,7 +496,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
 
 /* Custom css
 ------------------------------------------------------- */
-p > img {
+div.prose > p > img {
     height: auto;
     max-width: 100%;
 }
