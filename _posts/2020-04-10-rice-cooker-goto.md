@@ -17,18 +17,21 @@ As I do not have that much time, I decided to let the rice cooker do most of the
 - Uncooked rice 1 ½ cup
 - Water 7 cups
 - 1 beef cube
+- 1 pork cubes
 - 1 teaspoon turmeric powder
 - 2 tablespoons minced garlic
 - 1 small onion minced
+- salt and pepper
 
 **Procedure**
   1. Clean the beef stripes. Generously apply salt and rub it on the tripe. Rinse it under running water and repeat it at least 2 times.
   2. Using the rice cooker pot, combine 7 cups of water and salt and the tripe. Boil for 2  hours using the slow cook setting. Set aside the tripes and liquid separately. Rinse the pot.*
-  3. Combine the onion, garlic and ginger in the rice cooker pot. Add the tripes. Pour in the broth that you set aside. Put in 1 beef cube and 1 teaspoon of Turmeric powder. Add the uncooked rice. 
-  4. Once everything is in the pot, set again the cooker for the slow cook or rice porridge setting. Stir and leave it there. *
+  3. Combine the onion, garlic and ginger in the rice cooker pot. Add the tripes. Pour in the broth that you set aside. Put in 1 beef and 1 pork cubes and 1 teaspoon turmeric powder.
   5. Cook for about 45 mins to an hour or until the desired rice porridge consistency is achieved and when the tripes are soft enough.
   6. Add salt and pepper to taste.
   7. Transfer to a serving bowl. Add egg, green onions and toasted garlic, and crushed chicharon. You can also pair it with tokwa’t baboy.
   8. Serve and enjoy eating! :)
+
+![]({{site.baseurl}}/media/IMG-2693.JPG)![IMG-2693.JPG]({{site.baseurl}}/media/IMG-2693.JPG)
 
 Note: *You can also use a standard rice cooker in this recipe. When the rice cooker reaches its boiling point it automatically changes the setting from cook to warm. You just have to use the warm setting when cooking. Leave it there for at least 3 hours or until the desired texture is achieved.
