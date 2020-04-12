@@ -32,6 +32,6 @@ As I do not have that much time, I decided to let the rice cooker do most of the
   7. Transfer to a serving bowl. Add egg, green onions and toasted garlic, and crushed chicharon. You can also pair it with tokwa’t baboy.
   8. Serve and enjoy eating! :)
 
-![]({{site.baseurl}}/media/IMG-2693.JPG)![IMG-2693.JPG]({{site.baseurl}}/media/IMG-2693.JPG)
+![IMG-2693.JPG]({{site.baseurl}}/media/IMG-2693.JPG)
 
 Note: *You can also use a standard rice cooker in this recipe. When the rice cooker reaches its boiling point it automatically changes the setting from cook to warm. You just have to use the warm setting when cooking. Leave it there for at least 3 hours or until the desired texture is achieved.
