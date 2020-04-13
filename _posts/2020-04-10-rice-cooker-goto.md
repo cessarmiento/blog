@@ -8,9 +8,9 @@ It is rainy today here in Singapore and I have decided to prepare _Goto_ for my 
 
 Goto, like lugaw, is a rice porridge or congee, but the difference is it has beef tripes and sometimes pig innards in it. Lugaw is just plain rice porridge. Arrozcaldo on the other hand is cooked with chicken as meat and broth. If you know how to cook lugaw, you can also easily cook this sumptuous merienda.
 
-Singapore also has rice porridge foods but the taste of course is different from what we Filipinos are used to. One of the rice porridge that I have tried here is the Chicken Shredded Porridge which is by far the best rice porridge I have tasted here. But since we missed Filipino Goto I tried to cook it for my family.
+Singapore also has rice porridge foods but the taste of course is different from what we Filipinos are used to. One of the rice porridge that I have tried here is the _Chicken Shredded Porridge_ which is by far the best rice porridge I have tasted here. But since we missed Filipino Goto I tried to cook it for my family.
 
-As I do not have that much time, I decided to let the rice cooker do most of the cooking. As our rice cooker has a slow cook and rice porridge cook setting. I did not hesitate to cook our goto in it. 
+As I wanted to do more while cooking, I decided to let the rice cooker do most of the cooking. Our rice cooker has a slow cook and rice porridge cook setting. I did not hesitate to cook our goto in it. Preparation will be more than 2 hours so you need to prepare ahead if you are planning to eat it at a desired time. Cooking time will be at least 45 mins to an hour depending on your desired consistency of goto. Don't worry as you won't need to always check and stir your goto while preparing and cooking. That being said, you can do other things while cooking your goto. :)
 
 **Here are the ingredients you need:**
 - Beef tripes 500 grams
